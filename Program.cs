@@ -37,7 +37,7 @@
                 }
             }
             lakosok.Sort();
-            lakosok.ForEach(x => System.Console.WriteLine(x));
+            lakosok.ForEach(x => System.Console.WriteLine(x)); //Szar helyen van
 
 
             //Négyzet
